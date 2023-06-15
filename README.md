@@ -16,7 +16,7 @@ Feel free to explore the projects and leverage the code samples as learning reso
 
 Thank you for visiting my repository, and I hope my projects inspire you and provide valuable insights into the fascinating worlds of cybersecurity, AI, and ML. If you have any questions, collaboration opportunities, or would like to connect, please feel free to reach out. Let's embark on this exciting journey together!
 
-Contact me: Email - codewithishaan@gmail.com | LinkedIn - https://www.linkedin.com/in/ishaan-lakhanpal728073214/
+Contact me: Email - codewithishaan@gmail.com | LinkedIn - https://www.linkedin.com/in/ishaan-lakhanpal
 
 
 [Optional: Include a project index or table of contents, briefly summarizing the projects available in the repository]
