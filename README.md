@@ -18,5 +18,3 @@ Thank you for visiting my repository, and I hope my projects inspire you and pro
 
 Contact me: Email - codewithishaan@gmail.com | LinkedIn - https://www.linkedin.com/in/ishaan-lakhanpal
 
-
-[Optional: Include a project index or table of contents, briefly summarizing the projects available in the repository]
